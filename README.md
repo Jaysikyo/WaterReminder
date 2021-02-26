@@ -1,6 +1,5 @@
 # WaterReminder
 
-----
 A program written in both Java and Python to remind yourself to drink
 water while you are on your computer throughout the day.
 
@@ -8,11 +7,9 @@ This program runs in the background and periodically will
 play a sound clip that reminds you to drink some water. 
 Both the periodic interval and sound clips are editable 
 for the user.
-----
 
-##Configuration File
+## Configuration File
 
-----
 The configuration file for this project is as follows:
 ```yaml
 ###############################
@@ -38,11 +35,9 @@ audio-path: 'reminder-audio/'
 minimum-interval: 60
 maximum-interval: 90
 ```
-----
 
-##Future Plans
+## Future Plans
 
-----
 - Create the Java version of the program.
 - Convert the Python program to an executable file.
 - Have command processing during the program.
@@ -54,11 +49,8 @@ maximum-interval: 90
 - Add a custom interface for the program with buttons to make it easier to
 operate.
 - Have the reminder optionally give you a system notification too.
-----
 
-##Open Source Project
+## Open Source Project
 
-----
 This project operates under the MIT License and is completely open source. 
 Feel free to submit any pull requests or issues as you please.
-----
