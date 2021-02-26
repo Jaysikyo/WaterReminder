@@ -1,0 +1,7 @@
+audio-path: 'audio/'
+
+minimum-interval: 600
+maximum-interval: 900
+
+extra-string: 'hello!'
+extra-integer: 10

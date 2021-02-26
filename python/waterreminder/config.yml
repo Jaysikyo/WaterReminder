@@ -1,0 +1,22 @@
+###############################
+# WaterReminder Configuration #
+###############################
+# Learn the YAML format at https://www.yaml.org/ before editing this file.
+
+# The path to the directory that with the audio files for reminding yourself
+# to drink water (string).
+#
+# NOTE: That the source directory is the directory where you run the program
+#       and is the default starting place of a Path.
+#       Use '../' to go up a directory.
+audio-path: 'reminder-audio/'
+
+# The interval between each reminder of drinking water in minutes.
+#
+# The actual interval between each reminder is a random number between the
+# maximum and minimum number of minutes.
+#
+# @minimum-interval: The minimum amount of minutes before a reminder (integer).
+# @maximum-interval: The maximum amount of minutes before a reminder (integer).
+minimum-interval: 60
+maximum-interval: 90
