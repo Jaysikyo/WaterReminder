@@ -8,6 +8,13 @@ play a sound clip that reminds you to drink some water.
 Both the periodic interval and sound clips are editable 
 for the user.
 
+## Installation
+
+1. Clone this repository.
+2. Extract everything in the 'python' folder to an ideal location.
+3. Edit the 'config.yml' file to your liking.
+4. Run the 'main.py' script in the virtual environment.
+
 ## Configuration File
 
 The configuration file for this project is as follows:
