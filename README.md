@@ -13,7 +13,7 @@ for the user.
 1. Clone this repository.
 2. Extract everything in the 'python' folder to an ideal location.
 3. Edit the 'config.yml' file to your liking.
-4. Run the 'main.py' script in the virtual environment.
+4. Run the 'run.bat' file inside of the 'python' folder you just extracted.
 
 ## Configuration File
 
